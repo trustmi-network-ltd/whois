@@ -122,7 +122,7 @@ func TestWhois(t *testing.T) {
 
 	servers := []string{"com.whois-servers.net", "com.whois-servers.net:43"}
 	for _, server := range servers {
-		_, err := Whois("likexian.com", server)
+		_, err := Whois("example.com", server)
 		assert.Nil(t, err)
 	}
 }

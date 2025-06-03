@@ -1,10 +1,10 @@
-module github.com/likexian/whois
+module github.com/trustmi-network-ltd/whois
 
 go 1.21
 
 require (
 	github.com/likexian/gokit v0.25.15
-	github.com/likexian/whois-parser v1.24.20
+	github.com/trustmi-network-ltd/whois-parser v0.0.0-20250603112914-9e999ac74015
 	golang.org/x/net v0.35.0
 )
 

@@ -1,7 +1,7 @@
 github.com/likexian/gokit v0.25.15 h1:QjospM1eXhdMMHwZRpMKKAHY/Wig9wgcREmLtf9NslY=
 github.com/likexian/gokit v0.25.15/go.mod h1:S2QisdsxLEHWeD/XI0QMVeggp+jbxYqUxMvSBil7MRg=
-github.com/likexian/whois-parser v1.24.20 h1:oxEkRi0GxgqWQRLDMJpXU1EhgWmLmkqEFZ2ChXTeQLE=
-github.com/likexian/whois-parser v1.24.20/go.mod h1:rAtaofg2luol09H+ogDzGIfcG8ig1NtM5R16uQADDz4=
+github.com/trustmi-network-ltd/whois-parser v0.0.0-20250603112914-9e999ac74015 h1:yY6B1sypSN99kU3CQ46OVGcjX8HFRqPnb2yxQv13bew=
+github.com/trustmi-network-ltd/whois-parser v0.0.0-20250603112914-9e999ac74015/go.mod h1:PVqegxfhmMFeXahrrNOjEkS2KBqSPb5YeMvVktOOnlE=
 golang.org/x/net v0.35.0 h1:T5GQRQb2y08kTAByq9L4/bz8cipCdA8FbRTXewonqY8=
 golang.org/x/net v0.35.0/go.mod h1:EglIi67kWsHKlRzzVMUD93VMSWGFOMSZgxFjparz1Qk=
 golang.org/x/text v0.22.0 h1:bofq7m3/HAFvbF51jz3Q9wLg3jkvSPuiZu/pD1XwgtM=
